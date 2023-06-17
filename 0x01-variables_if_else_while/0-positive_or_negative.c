@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 #include <time.h>
-#define RAND_MAX 11
+
 int main(void)
 {
     int n;
