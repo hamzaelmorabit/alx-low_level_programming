@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#define RAND_MAX
- 
+  
 
 /**
  * main - Entry point
