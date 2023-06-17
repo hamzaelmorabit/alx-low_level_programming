@@ -7,7 +7,7 @@
  *
  * Description: print value of n satus; zero, positive or negative
  *
- * Return : always we return a 0, in successful execution
+ * Return: always we return a 0, in successful execution
 */
 int main(void)
 {
