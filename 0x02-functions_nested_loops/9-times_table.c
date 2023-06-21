@@ -9,7 +9,7 @@ void times_table(void)
 {
 	int num, mult, prod;
 
-	for (num = 0; num <= 9; ++num)https://github.com/hamzaelmorabit/alx-low_level_programming/tree/master/0x02-functions_nested_loops
+	for (num = 0; num <= 9; ++num)
 	{
 		_putchar(48);
 		for (mult = 1; mult <= 9; ++mult)
