@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * print_to_98 - Entry point
- * Description: count to 98https://github.com/hamzaelmorabit/alx-low_level_programming/tree/master/0x02-functions_nested_loops
+ * Description: count to 98
  * @n: number
  * Return: a + b
  */
